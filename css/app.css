@@ -1,0 +1,32 @@
+body{
+	background-color: orange;
+}
+
+header{
+	border-bottom: solid 1px  white;
+}
+
+a.link-rounded{
+	display: inline-block;
+	border-radius: 88px;
+    border: 3px solid white;
+    color: black;
+    padding: 20px; 
+    width: 120px;
+    height: 120px;
+    line-height: 6em;
+
+}
+
+.link-rounded:visited, .link-rounded:hover, .link-rounded:active{
+	color: black;
+
+}
+
+.double-line {
+	line-height: 3em !important;
+}
+
+.center-image{
+	margin: auto !important;
+}
